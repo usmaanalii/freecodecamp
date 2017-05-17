@@ -1,0 +1,32 @@
+* {
+    text-align: center;
+}
+
+h1 {
+    font-weight: 100;
+}
+
+#location, #temperature, #description, #icon, h4 {
+    padding-top: 50px;
+
+    font-size: 20px;
+}
+
+#location {
+    color: red;
+}
+
+#temperature {
+    color: blue;
+}
+
+#description {
+    color: green;
+}
+
+#icon {
+    padding-top: 30px !important;
+    padding-bottom: 30px;
+
+    color: black;
+}
