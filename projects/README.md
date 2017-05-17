@@ -22,7 +22,7 @@ In total there were 4 projects, each came with their own user stories (describe 
 
 - User Story: I can press a button to tweet out a quote.
 
-[See the project live on Codepen](https://codepen.io/usyyy/full/AXJdbW/)
+<a href="https://codepen.io/usyyy/full/AXJdbW/" target="_blank">See the project live on Codepen</a>
 ***
 
 **Show the Local Weather**
@@ -33,7 +33,7 @@ In total there were 4 projects, each came with their own user stories (describe 
 
 - User Story: I can push a button to toggle between Fahrenheit and Celsius.
 
-[See the project live on Codepen](http://codepen.io/usyyy/full/yJARxp/)
+<a href="http://codepen.io/usyyy/full/yJARxp/" target="_blank">See the project live on Codepen</a>
 ***
 
 **Build a Wikipedia Viewer**
@@ -42,7 +42,7 @@ In total there were 4 projects, each came with their own user stories (describe 
 
 - User Story: I can click a button to see a random Wikipedia entry.
 
-[See the project live on Codepen](https://codepen.io/usyyy/full/OXKpbx/)
+<a href="https://codepen.io/usyyy/full/OXKpbx/" target="_blank">See the project live on Codepen</a>
 ***
 
 **Use the Twitchtv JSON API**
@@ -55,7 +55,7 @@ In total there were 4 projects, each came with their own user stories (describe 
 
 - User Story: I will see a placeholder notification if a streamer has closed their Twitch account (or the account never existed). You can verify this works by adding brunofin and comster404 to your array of Twitch streamers.
 
-[See the project live on Codepen](https://codepen.io/usyyy/full/bwdqXq/)
+<a href="https://codepen.io/usyyy/full/bwdqXq/" target="_blank">See the project live on Codepen</a>
 
   [52abe933]: https://www.freecodecamp.com/usyyy "fcc-profile"
 
