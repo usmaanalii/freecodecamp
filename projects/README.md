@@ -1,21 +1,65 @@
 ## 'Intermediate' Front End Development Projects from the FCC Curriculum
 
-These projects utilise:
+In order to complete the projects described in this section, a series of bonfire challenges needed to be passed. The topics that these covered included:
 
-* HTML
-* CSS
-* Javascript
-* AJAX
+- HTML5 and CSS
+- Responsive Design with Bootstrap
+- Introduction to jQuery
+- Basic Javascript
+- Introduction to Object Oriented and Functional Programming
+- Basic Algorithm Scripting
+- Introduction to JSON API's and AJAX
 
-#### Projects can be seen on CodePen
+These can be seen on my [FCC profile][52abe933]
 
-* [Random Quote Machine](https://codepen.io/usyyy/full/AXJdbW/)
+In total there were 4 projects, each came with their own user stories (describe below).
 
-* [Weather App](http://codepen.io/usyyy/full/yJARxp/)
+***
 
-* [Wikipedia Viewer](https://codepen.io/usyyy/full/OXKpbx/)
+**Random Quote Machine**
 
-* [Twitch Viewer](https://codepen.io/usyyy/full/bwdqXq/)
+- User Story: I can click a button to show me a new random quote.
+
+- User Story: I can press a button to tweet out a quote.
+
+[See the project live on Codepen](https://codepen.io/usyyy/full/AXJdbW/)
+***
+
+**Show the Local Weather**
+
+- User Story: I can see the weather in my current location.
+
+- User Story: I can see a different icon or background image (e.g. snowy mountain, hot desert) depending on the weather.
+
+- User Story: I can push a button to toggle between Fahrenheit and Celsius.
+
+[See the project live on Codepen](http://codepen.io/usyyy/full/yJARxp/)
+***
+
+**Build a Wikipedia Viewer**
+
+- User Story: I can search Wikipedia entries in a search box and see the resulting Wikipedia entries.
+
+- User Story: I can click a button to see a random Wikipedia entry.
+
+[See the project live on Codepen](https://codepen.io/usyyy/full/OXKpbx/)
+***
+
+**Use the Twitchtv JSON API**
+
+- User Story: I can see whether Free Code Camp is currently streaming on Twitch.tv.
+
+- User Story: I can click the status output and be sent directly to the Free Code Camp's Twitch.tv channel.
+
+- User Story: if a Twitch user is currently streaming, I can see additional details about what they are streaming.
+
+- User Story: I will see a placeholder notification if a streamer has closed their Twitch account (or the account never existed). You can verify this works by adding brunofin and comster404 to your array of Twitch streamers.
+
+[See the project live on Codepen](https://codepen.io/usyyy/full/bwdqXq/)
+
+  [52abe933]: https://www.freecodecamp.com/usyyy "fcc-profile"
+
+***
 
 **NOTE**
 
